@@ -4,10 +4,11 @@
   "description": "Display Tokyo Amesh on your console.",
   "main": "amesh.js",
   "bin": {
-      "amesh": "amesh.js"
+    "amesh": "amesh.js"
   },
   "dependencies": {
-    "ansi-canvas": "github:rgbkrk/ansi-canvas#patch-1"
+    "ansi-canvas": "github:rgbkrk/ansi-canvas#patch-1",
+    "date-util": "^1.2.1"
   },
   "devDependencies": {},
   "scripts": {
