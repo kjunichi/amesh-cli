@@ -1,0 +1,22 @@
+{
+  "name": "amesh-cli",
+  "version": "0.0.1",
+  "description": "Display Tokyo Amesh on your console.",
+  "main": "amesh.js",
+  "bin": {
+      "amesh": "amesh.js"
+  },
+  "dependencies": {
+    "ansi-canvas": "github:rgbkrk/ansi-canvas#patch-1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Canvas",
+    "HTML5"
+  ],
+  "author": "@kjunichi",
+  "license": "MIT"
+}
