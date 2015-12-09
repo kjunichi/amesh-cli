@@ -6,7 +6,7 @@
 
 ```
 CXXFLAGS="-I/usr/local/include" LDFLAGS="-L/usr/local/lib" \
-PKG_CONFIG_PATH=/usr/X11/lib/pkgconfig \
+PKG_CONFIG_PATH=/opt/X11/lib/pkgconfig \
 npm install kjunichi/amesh-cli
 ```
 
