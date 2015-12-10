@@ -1,5 +1,7 @@
 # amesh-cli
 
+![](https://pbs.twimg.com/media/CVvFu8DU8AA1k7u.jpg:large)
+
 ## Installation
 
 - OSX(Homebrew)
