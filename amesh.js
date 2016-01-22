@@ -6,7 +6,7 @@ const http = require('http');
 
 const tc = require('ansi-canvas');
 const Canvas = require('canvas');
-const ameutil = require('./ameutil');
+const ameutil = require('./lib/ameutil');
 
 // create terminal <canvas>
 const canvas = tc();
