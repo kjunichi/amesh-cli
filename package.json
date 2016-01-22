@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "ansi-canvas": "github:rgbkrk/ansi-canvas#patch-1",
-    "date-utils": "^1.2.17"
+    "date-utils": "^1.2.17",
+    "canvas": "*"
   },
   "devDependencies": {},
   "scripts": {
