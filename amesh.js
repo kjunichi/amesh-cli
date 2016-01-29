@@ -15,7 +15,7 @@ const maxWidth = screenWidth
 
 const img = new Canvas.Image()
 
-util.getImage(512,512,function(pngimg){
+util.getImage(function(pngimg){
 
   img.src = pngimg
 

@@ -1,6 +1,6 @@
 const util=require('../lib/ameutil')
 const fs=require('fs')
 
-util.getImage(512,512,function(pngimg){
+util.getImage(function(pngimg){
   fs.writeFile('test.png',pngimg)
 })
