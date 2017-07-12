@@ -9,7 +9,7 @@
   "dependencies": {
     "ansi-canvas": "*",
     "date-utils": "^1.2.17",
-    "canvas": "~1.2.7"
+    "canvas": "^1.4.0"
   },
   "devDependencies": {},
   "scripts": {
