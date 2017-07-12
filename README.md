@@ -24,3 +24,14 @@ npm install kjunichi/amesh-cli
 ./node_module/.bin/amesh
 ```
 
+### if you have npx command
+
+```
+npx kjunichi/amesh-cli
+```
+
+on macOS
+
+```
+PKG_CONFIG_PATH=/opt/X11/lib/pkgconfig npx kjunichi/amesh-cli
+```
